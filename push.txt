@@ -1,0 +1,5 @@
+cd /Users/lilingling/MyTest/LearnGitProject
+git add ./images/mypicture.png
+git commit -m "commit log"
+git remote add origin https://github.com/zjh-neverstop/LearnGitProject.git
+git push -u origin master
